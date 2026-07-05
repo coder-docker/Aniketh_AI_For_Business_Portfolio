@@ -11,7 +11,7 @@ These projects mirror real world machine learning tasks by forcing me to grapple
 AI Statement
 
 Generative AI was utilized as a supportive engineering and educational collaborator throughout the development of these portfolio projects.
-I leveraged AI to efficiently debug Python and R code, optimize training script execution times, and clarify complex algorithmic mechanics—such as the inner workings of t SNE and the structural logic of recursive function calls.
+I leveraged AI to efficiently debug Python and R code, optimize training script execution times, and clarify complex algorithmic mechanics such as the inner workings of t-SNE and the structural logic of recursive function calls.
 It served as a highly responsive programming peer, helping to write clean code structures, implement early stopping callbacks in Keras, and isolate performance differences between data structure implementations.
 All final model training, architecture design decisions, and performance evaluations were directed and verified by me to ensure technical accuracy and full ownership of the portfolio deliverables.
 
